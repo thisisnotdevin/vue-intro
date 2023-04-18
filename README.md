@@ -1,4 +1,6 @@
-# vue-intro
+# simple weather app using vue.js
+
+source: https://openweathermap.org/current
 
 ## Install vue cli in your terminal
 
