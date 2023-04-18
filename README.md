@@ -6,6 +6,10 @@ https://openweathermap.org/current
 
 https://vuejs.org/guide/introduction.html
 
+https://web.postman.co/
+
+used postman to test api
+
 app for phone view only
 
 ## Install vue cli in your terminal
