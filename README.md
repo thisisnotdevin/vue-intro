@@ -1,6 +1,7 @@
 # simple weather app using vue.js
 
 source: https://openweathermap.org/current
+app for phone view only
 
 ## Install vue cli in your terminal
 
