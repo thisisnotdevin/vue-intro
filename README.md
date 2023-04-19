@@ -1,5 +1,7 @@
 # simple weather app using vue.js
 
+Fun fact: "Vue" stands for 'View' in french
+
 sources: 
 
 https://openweathermap.org/current
