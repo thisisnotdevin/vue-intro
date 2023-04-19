@@ -71,6 +71,7 @@ export default {
 </script>
 
 <style>
+
 :root {
   --light: #e2eaf3;
   --dark: #2e3542;
@@ -82,7 +83,7 @@ export default {
 }
 
 body {
-  font-family: 'Libre Baskerville', sans-serif;
+  font-family: 'Roboto Mono', monospace;
 }
 
 #app {
@@ -119,9 +120,11 @@ main {
 .search-box {
   width: 100%;
   margin-bottom: 30px;
+  
 }
 
 .search-box .search-bar {
+  font-family: 'Roboto Mono', monospace;
   display: block;
   width: 100%;
   padding: 15px;
